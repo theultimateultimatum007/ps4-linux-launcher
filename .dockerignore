@@ -1,0 +1,7 @@
+build/
+*.pkg
+pkg.gp4
+eboot.bin
+guest.elf
+sce_sys/param.sfo
+.git/
