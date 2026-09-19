@@ -6,7 +6,7 @@ A handy thing for personal use where i can launch PS4 Linux quickly without scro
 
 At launch time the app searches for the following payloads, in order, and runs the first one it finds:
 
-1. `linux-1gb.bin
+1. `linux-1gb.bin`
 2. `linux.bin`
 
 The search order for each name is:
